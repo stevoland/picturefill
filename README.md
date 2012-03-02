@@ -14,7 +14,8 @@ Demo URL: [http://scottjehl.github.com/picturefill/](http://scottjehl.github.com
 
 Note: The demo only polyfills picture support for browsers that support CSS3 media queries, but it includes the [matchMedia polyfill](https://github.com/paulirish/matchMedia.js/) for media-query-supporting browsers that don't have matchMedia.
 
-Enhanced 02/03/2012 - stevoland@gmail.com
+## Enhanced 02/03/2012 - stevoland@gmail.com
+
 * Prevent default img src download Jake Archibald [stylee](http://24ways.org/2011/adaptive-images-for-responsive-designs-again)
 * Allow and respect height/width attributes to help with layout
 * Lazy load fist image only when in or above visible area
